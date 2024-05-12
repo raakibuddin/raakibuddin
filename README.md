@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m  Graduate Research Student **of North South University**
+- 🔭 I’m  Graduate Research Student FAU Germany**
 
-- 🌱 I’m currently learning **Machine Learning,Deep Learning and Data Science**
+- 🌱 I’m currently learning **Artificial Intelligence, Machine Learning,Deep Learning and Data Science**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
